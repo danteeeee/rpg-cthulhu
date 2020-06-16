@@ -1,0 +1,16 @@
+header {
+    height: 60px;
+    background-color: #aa0000;
+    color: #ffffff;
+    font-family: monospace;
+    font-size: 32px;
+   
+    padding: 5px;
+    display: flex;
+    align-items: center;
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
