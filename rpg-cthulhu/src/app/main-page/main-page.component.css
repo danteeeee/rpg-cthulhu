@@ -1,16 +1,15 @@
-header {
-    height: 60px;
-    background-color: #aa0000;
-    color: #ffffff;
-    font-family: monospace;
-    font-size: 32px;
-   
-    padding: 5px;
-    display: flex;
-    align-items: center;
 
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
+.nav {
+    background-color: black;
+    margin: -12px 20px 10px;
+    border: 5px solid red;
+    padding-bottom: 20px;
+    position: relative;
+    display: flex;
+}
+
+.nav li {
+    color: white;
+    list-style: none;
+    display: inline-block;
 }
